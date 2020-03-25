@@ -31,9 +31,9 @@
 - [Sponsors](#donate)
 
 ## Introduction
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/Jfaler/Bitcoin-Casino/blob/master/LICENSE.txt)
-[![GitHub issues](https://img.shields.io/github/issues/Jfaler/bitcoin-casino.svg)](https://github.com/Jfaler/Bitcoin-Slot-Machine/issues)
-![](https://img.shields.io/github/stars/jfaler/bitcoin-casino.svg)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/bitlits/Bitcoin-Casino/blob/master/LICENSE.txt)
+[![GitHub issues](https://img.shields.io/github/issues/bitlits/bitcoin-casino.svg)](https://github.com/bitlits/Bitcoin-Slot-Machine/issues)
+![](https://img.shields.io/github/stars/bitlits/bitcoin-casino.svg)
 [![](https://img.shields.io/twitter/follow/bitlits.svg?label=Follow&style=social)](https://twitter.com/bitlits)
 
 ### Mission
@@ -83,13 +83,13 @@ Help is greatly appreciated, feel free to submit pull-requests or open issues.
 * <p>Sign up with <a target="_blank" href="https://m.do.co/c/397fb2277475">Digital Ocean</a><img width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 * Install LAMP https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04
 * Edit the configuration file `sudo nano /base/init.php`
-* Install Litecoin & start the Litecoin Daemon `sudo litecoind` https://github.com/Jfaler/Bitcoin-Casino/wiki/Install-Litecoin-for-Bitcoin-Casino-&-Bitcoin-Slot-Machine
+* Install Litecoin & start the Litecoin Daemon `sudo litecoind` https://github.com/bitlits/Bitcoin-Casino/wiki/Install-Litecoin-for-Bitcoin-Casino-&-Bitcoin-Slot-Machine
 * Edit the configuration file `sudo nano /vendor/sql/phpliteadmin.conf.php`
 * Access PhpLiteAdmin Dashboard http://example.com/vendor/sql/phpliteadmin.php
 
 ### Clone
 
-- Clone this repo to your local machine using `sudo git clone https://github.com/Jfaler/Crypto-Slot-Bot.git`
+- Clone this repo to your local machine using `sudo git clone https://github.com/bitlits/Crypto-Slot-Bot.git`
 
 ## Getting Involved
 
@@ -102,10 +102,10 @@ Want to report a bug, request a feature, contribute or translate Bitcoin-Casino?
     - 🍴 Fork & star this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/Jfaler/Crypto-Slot-Bot.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/bitlits/Crypto-Slot-Bot.git`
 
 - **Option 3**
-    - 🔔 Browse our [issues](https://github.com/Jfaler/Crypto-Slot-Bot/issues), comment on proposals, report bugs.
+    - 🔔 Browse our [issues](https://github.com/bitlits/Crypto-Slot-Bot/issues), comment on proposals, report bugs.
 
 ### Step 2
 
@@ -113,7 +113,7 @@ Want to report a bug, request a feature, contribute or translate Bitcoin-Casino?
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/jfaler/Crypto-Slot-Bot/compare/" target="_blank">`https://github.com/jfaler/Crypto-Slot-Bot/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/bitlits/Crypto-Slot-Bot/compare/" target="_blank">`https://github.com/bitlits/Crypto-Slot-Bot/compare/`</a>.
 
 ### Step 4
 
